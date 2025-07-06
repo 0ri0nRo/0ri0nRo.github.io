@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuele Bella</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Samuele Bella</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autores de Hugo</title>
+      <link>http://localhost:1313/autores/autores-de-hugo/</link>
+      <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
+      <guid>http://localhost:1313/autores/autores-de-hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>temas</title>
+      <link>http://localhost:1313/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/temas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sintaxe</title>
+      <link>http://localhost:1313/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://localhost:1313/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>http://localhost:1313/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About 🔍</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 14 Jul 2022 08:26:23 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hey, welcome to my website 👋&#xA;I&amp;rsquo;m Samuele Bella, a Cybersecurity student at Sapienza Università di Roma.&#xA;If you&amp;rsquo;re interested in working with me, send me an email or download my resume</description>
+    </item>
+    <item>
+      <title>Projects 👷🏻</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Practical Network Defense Laboratory&#xA;Built, setup and configured a virtual network hosted on proxmox. Implemented a DMZ, a main firewall and an internal firewall with OPNsense. Configured a Road Warrior tunnel with OpenVPN and an internal tunnel with IPSec. Hardened the network by applying various security policies to Management, Control and Data Planes. Setup a Graylog SIEM host, a Greenbone Vulnerability Management System and a Fail2Ban NIPS with an SSH Jail JSFormGrabbing</description>
+    </item>
+    <item>
+      <title>Skills 👨‍💻</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>Tools 🔧 Link to heading I use on a daily basis: • I use GNU/Linux as my main OS • I use bash or zsh as my shells • vim for text editing • git for version control • Various front-end frameworks such as Hugo (The framework that I used to build this website) • LaTeX / Markdown / toml / JSON&#xA;Technologies 💻 Link to heading I mainly choose between Python, C or Java as my main programming languages, even though I dabbled in MIPS assembly and C++.</description>
+    </item>
+  </channel>
+</rss>
