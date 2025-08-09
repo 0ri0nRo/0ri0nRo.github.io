@@ -1,4 +1,4 @@
-Sitemap: https://samuelebella.tech/sitemap.xml
+Sitemap: https://0ri0nro.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
